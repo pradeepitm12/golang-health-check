@@ -1,8 +1,8 @@
- @Library('github.com/fabric8io/osio-pipeline@master') _
+ @Library('github.com/pradeepitm12/osio-pipeline@staging') _
 
  osio {
 
- config runtime: 'node'
+ config runtime: 'go'
   ci {
 
             def resources = processTemplate(params: [
