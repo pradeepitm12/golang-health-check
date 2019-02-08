@@ -2,7 +2,7 @@
 
 osio {
 
-  config runtime: 'go'
+  config runtime: 'golang'
 
   ci {
 
