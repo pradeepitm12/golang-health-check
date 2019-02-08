@@ -1,4 +1,4 @@
-@Library('github.com/pradeepitm12/osio-pipeline@staging'') _
+@Library('github.com/pradeepitm12/osio-pipeline@staging') _
 
 osio {
 
